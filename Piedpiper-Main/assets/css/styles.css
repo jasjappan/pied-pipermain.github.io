@@ -195,6 +195,7 @@ img{
 .home__title{
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  z-index: 4;
 }
 .home__title-color{
   color: #EA362C;
@@ -216,6 +217,7 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
+  z-index: 1;
   width: 295px;
 }
 
